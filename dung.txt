@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wwwertyui
+=======
+dung an cut
+>>>>>>> origin/master
